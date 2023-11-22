@@ -5,5 +5,7 @@ SCHOOL=N.M.V.Chinawal
 readonly NAME
 NAME=DEVOPS
 echo "my name is: $NAME"
+echo "abhinavv"
 echo "my school name is:$SCHOOL"
 echo "4 and 8 line added succesfully"
+
