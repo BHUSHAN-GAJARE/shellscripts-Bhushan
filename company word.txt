@@ -1,0 +1,13 @@
+Ygmind=========>  https://meet.google.com/tgp-mgbx-wnv
+
+GD@12 group=====> https://meet.google.com/suf-nxba-mqu
+
+***WORDS USED INSIDE COMPANIES-Must Know
+1.Local-laptop
+2.PTO-Paid Time-Off
+3.OOO-Out Of Office
+4.poc-proof of concept
+5.golden_image- it referes to the ami created from ec2 to create new instances.
+6.AZ-availability zone or datacenter
+7.DSTUM-Daily Stand-Up Meeting
+8.SSO-Single SignOn
